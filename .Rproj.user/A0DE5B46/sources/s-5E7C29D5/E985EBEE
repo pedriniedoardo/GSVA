@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527849198779.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E985EBEE",
+    "lastKnownWriteTime" : 1527851018,
+    "last_content_update" : -2147483648,
+    "path" : "D:/belfast/project edoardo/GSEA/GSVA/GSVA_assambled_expressionset.R",
+    "project_path" : "GSVA_assambled_expressionset.R",
+    "properties" : {
+        "cursorPosition" : "92,0",
+        "scrollLine" : "80",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

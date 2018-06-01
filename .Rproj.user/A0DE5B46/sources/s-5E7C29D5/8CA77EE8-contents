@@ -1,0 +1,11 @@
+# visualize a palette of color
+
+# defaine a costume range or a function to plot colors.or simply define a string of colors
+color <- colorRampPalette(c("green","black","yellow"),space="rgb")
+
+# priduce the vectors of colors
+palette <- color(10)
+palette
+
+# plot the colors
+ggplot(data.frame(col=palette),aes(x=factor(1),fill=col))+geom_bar()+scale_fill_manual(values = palette)+xlab("")
